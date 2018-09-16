@@ -202,7 +202,7 @@ figcaption {
 
 strong, b {
   font-weight: bold;
-  color: #000;
+  color: #ff0000;
 }
 
 /* 可拖动文件添加拖动手势 */
@@ -492,7 +492,7 @@ a:hover {
   cursor: pointer;
 }
 strong {
-  color: #e0e0e0;
+  color: #ff0000;
 }
 h1,
 h2,
